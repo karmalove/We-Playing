@@ -1,3 +1,4 @@
+# We Playing第二版本问题汇总
 ## Android We Playing问题
 * [ ] Toast提示绑定成功，但是imageview依然显示绑定QY7 pro
 * [ ] ~~点击开始跑步按钮的时候，进入普通模式界面，开始转暂停要过3秒左右~~
